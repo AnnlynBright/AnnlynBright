@@ -51,17 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnlynBright&show_icons=true&theme=radical&count_private=true" alt="Annlyn's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnlynBright&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annlyn-bright/)
 
